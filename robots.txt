@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://openaope.github.io/dJa/sitemap_index.txt
+Sitemap: https://openaope.github.io/erh/sitemap_index.txt
+Sitemap: https://openaope.github.io/ieP/sitemap_index.txt
+Sitemap: https://openaope.github.io/vDU/sitemap_index.txt
